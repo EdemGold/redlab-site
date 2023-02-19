@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+# Redklab site
+This is the oficial website for the redlab firm.
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
