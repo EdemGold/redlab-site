@@ -1,4 +1,4 @@
-# Redklab site
-This is the oficial website for the redlab firm.
+# Redlab site
+This is the official website for the redlab firm.
 
 
